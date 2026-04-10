@@ -1,0 +1,49 @@
+## TEST DATA
+
+# DATASET 1 : EDURABSA
+# 1. Great Professor! Content is really interesting and he is very enthusiastic about what he teaches! Gives plenty of opportunities for participation! Also-- No final exam!
+# 2. all i have to say is easy " A " you dont have to buy the book just fill in the blanks on the power point notes she gives you, which are basically the test questions
+# 3. Very well made course, really brings out the beauty of linear algebra.
+# 4. Had him for microbiology, he is honestly the best teacher. He really wants you to do well and succeed. His tests are fair and his lectures are easy to understand. I highly reccomend him!!!
+# 5. To be honest, I studied every single material, including the final exam, within an hour before the evaluation. I obtained a really good mark, but if you really studied for the final exam, achieving 100 in the course is very doable.
+# 6. I took it online. I didn't have to dedicate that much for it. WARNING- options are 100 % exam or 30 % paper / 70 % exam.... Do the paper or else you will have to write a whole other section on the final. The final was easy I am just glad I didn't have to write another essay during the exam time like my peers who opted for the 100 % exam did.
+# 7. Started off pretty easy, then ramped up right around midterm season and then by the end it was getting pretty theoretical. If you don't know something, ask, because there's a really good chance that the small details you don't understand will come up later on, especially when you start getting into the parts of making your own assembler, compiler, and things in Racket. Speaking of which, this course made me appreciate Racket more:)
+# 8. Mr. Piccone's one of the coolest , laid back professors I've ever had. I had him for Music Appreciation during the Winter. He's real easy to talk to and I never saw him lose his composure. I'd take him again if I had to. I highly recommend him
+# 9. Where to start? Best experience imaginable! Amazing people, lectures, course content and support, never a dull moment( and even if there was that would be because you didnt make an effort to engage in the uni!)! I don’t want to leave
+# 10. Both engaging for people who know quite a bit about ecology already, but beginners won't get swept away either. The labs are very much like that as well. Lab tend not to relate very strongly to the lecture, but that's not necessarily something bad about the course.
+
+# DATASET 2 : EDURABSA
+# 1. Not a great course to take online. It's definitely designed to be in person, and definitely a no-no to take online if you don't like recording yourself. I can see how it would be useful in person, but online I hardly spoke to anyone else and the computer mostly judged my pronunciation( difficult with speech impediments, etc.)
+# 2. I love this guy. Absolutely hilarious, class was FUN. Nothing extraordinary on HW's or exams. Would love to take another of his classes.
+# 3. The labs are easier that 122L, your mark is really just dependent on your TA. Concepts are simple though, nothing to challenging required
+# 4. Very interesting course especially since it has a lab! Concepts can be hard to grasp if you don't do the readings ahead of class, but overall a great course.
+# 5. The University of Exeter is great and the lectures are very approachable. The facilities are good.
+# 6. Great teacher with a great understanding of her students and what we need to pass. You get out of this class what you put into it. If you put forth the effort she will help you and you'll pass. She's really HOT too. Let's just say we" got to know each other" very well.
+# 7. Class was fine until assembly and memory... don't know why these chapters are necessary in a mech class. The labs were kind of shit too since they never had a rub
+# 8. I took an online course and she said to email her if I had any questions. Well, I had lots of them and she never answered any of my questions. She didn't want to deal with me. Would not recommend this professor to anyone!
+# 9. Perhaps the single most important course of the ME curriculum. Be sure to stay on top of all homework assignments, tutorials, and lecture content, and you should be fine. The topics covered in this course carry over to ME 303, ME 360( Control Systems), and ME 362( Fluid Mechanics 2).
+# 10. It was very easy in the beginning; very similar to high school data management. However, there were too many distributions and it got more and more difficult towards the end.
+
+# DATASET 3 : SFA
+# 1. Duration for the OOSD semester project should extend to the 4th semester as in ICE stream. Because it will help students to come up with better product.
+# 2. Both lecturers did a good job on delivering the subject matter efficiently. The class was not boring.
+# 3. Increase the time allocated for design patterns because they are vital important.
+# 4. The module was well structured. But with other modules we had tough time in managing the project. It was a tough semester
+# 5. The lecture series was good but the semester project was really tough.
+# 6. It is better if you can give the example codes that were discussed in the class to understand concepts clearly.
+# 7. Overall lectures were good. But it would have been better if Design Patterns were taught as in the middle of the lecture series. Last three weeks would n't give us enough time to get our hands on design patterns.
+# 8. Lectures were really great. In class exercises helped a lot in understanding the practical side of the theory we learnt. Having a mid term and having in class quizzes after each lecture is also a good thing. Other than that , the project evaluation would have been better if the multi layered architecture is evaluated. This is mainly because that we spent most of the project time for designing inside of the application rather than the gui. Hence some feedback on that would have helped us a lot. Except that the semester project was a great experience.
+# 9. Expecting more exercises and working examples similar to exam questions and practical things.
+# 10. one of the good lecturer... please dont change the lecturer in future...
+
+# DATASET 4 : SFA
+# 1. Design pattern lecture was not given much time. Also examples and applications are not enough.
+# 2. Some explanations were really hard to understand , but some students could. It would be better if the explanations were clear and simple enough such that even the student who are weak at the subject also get a chance to understand.
+# 3. Better if you can slow down the speed of the lectures.
+# 4. It would have been better if things like design patterns were taught before , so that we would have more time to try to use them in our project. This module is great because we get to implement what we learn and realize the value of them : )
+# 5. Syllabus and lecture series was good. It is better if the lecturer can upload the slides to the moodle before the lecture.
+# 6. more exercise helps to learn well.
+# 7. I like the way you teach to us , it is best ! You did a great job madam ! The only negative thing is we did n't get enough time to work more on design patterns.
+# 8. Lectures were organized in a good order. Lecture series was very helpful to achieve the outcome.
+# 9. It is better to have tutorial class for this module to discuss more questions
+# 10. It 's good to have the final evaluation of the group project after end exam. Then we can full focus on the project and gain the best experience.
