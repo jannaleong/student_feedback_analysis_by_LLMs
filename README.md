@@ -1,6 +1,6 @@
 # Analysis of Open-ended Student Feedback by LLMs
 
-The study evaluates the performance of LLMs in conducting analysis of open-ended student feedback in 3 ways : **aspect-based sentiment analysis(ABSA)**, **summarisation** and **multifaceted analysis of subject text (MAST)**. This is performed through **3 different experiments** that are briefly explained below. Furthermore, the insights of these experiments are applied in **3 simple applications** to streamline analysis of open-ended student feedback for instructors.
+The study evaluates the performance of LLMs in conducting analysis of open-ended student feedback in 3 ways : **aspect-based sentiment analysis (ABSA)**, **summarisation** and **multifaceted analysis of subject text (MAST)**. This is performed through **3 different experiments** that are briefly explained below. Furthermore, the insights of these experiments are applied in **3 simple applications** to streamline analysis of open-ended student feedback for instructors.
 
 
 ## 1. Experiment 1: Aspect-based Sentiment Analysis (ABSA)
@@ -17,7 +17,8 @@ feedback.
 This experiment evaluates the **zero-shot** and **one-shot** performance of **GPT-5.2**, **Claude Sonnet
 4.6** and **Qwen 3.5 Plus** on generating abstractive summaries of open-ended student feedback.
 
-- This folder contains the program used to generate summaries from GPT-5.2 using zero-shot and one-shot prompting. Furthermore, these summaries are evaluated with DeepSeek V3.2 on coherence, coverage and accuracy. The folder also contains the 4 sets of 10 student feedback used to evaluate the models. 
+- This folder contains the program used to generate summaries from GPT-5.2 using zero-shot and one-shot prompting. Furthermore, these summaries are evaluated with DeepSeek V3.2 on coherence, coverage and accuracy. 
+- The folder also contains the 4 sets of 10 student feedback used to evaluate the models. 
 - The program is run using the openai conda environment specified in the environments folder.
 - Claude Sonnet 4.6 and Qwen 3.5 Plus were evaluated using the same prompts under the same evaluation conditions. Their web-based interfaces were used to generate summaries.
 
@@ -26,16 +27,16 @@ This experiment evaluates the performance of LLMs on two **MAST** tasks: **offen
 detection** and **irony detection**. This experiment explores the performance of the **adapted LLaMA 3
 8B** models, **fine-tuned using an approach inspired by the ORCA 2 model**.
 
-- Each folder contains the fine-tuning/evaluation pipeline used to produce the specific adapted LLaMA 3 results reflected in the final report.
-- Each folder also contains the program used to generate the standard dataset to fine-tune and evaluate the models and humanised dataset used to evaluate the models. The generated dataset is reflected in the dataset folder. These programs are run using the openai conda environment specified in the environments folder.
-- The pipelines for LLaMA 3 8B models, fine-tuned using instruction tuning and ORCA 2 fine-tuning methods, were run on Google Colab using a NVIDIA T4 GPU. To run these pipelines, upload the fine-tuning notebook to google colab with the respective datasets. 
+- Each folder contains the fine-tuning/evaluation pipeline used to produce the adapted LLaMA 3 models and results reflected in the final report.
+- Each folder also contains the program used to generate the standard dataset to fine-tune and evaluate the models and humanised dataset used to further evaluate the models. The generated dataset is reflected in the dataset folder. These programs are run using the openai conda environment specified in the environments folder.
+- The fine-tuning/evaluation pipelines for LLaMA 3 8B models were run on Google Colab using a NVIDIA T4 GPU. To run these pipelines, upload the fine-tuning notebook to google colab with the respective datasets. 
 
 
 ## 4. Applications
-This section details three potential applications of the experiment results: **an aspect-based
+This section details three potential applications of the experiment results: an **aspect-based
 sentiment analyser**, an **aspect-based summariser**, and an **offensive speech detector**.
 
-**Due to github upload size limits, the relevant models can be downloaded from Google Drive at this link (https://drive.google.com/drive/folders/1wTklmKes5Yh0QtDqRGDrKn0KdA0FD5xP?usp=sharing).**
+Due to github upload size limits, the relevant models used in these applications can be downloaded from Google Drive at this link (https://drive.google.com/drive/folders/1wTklmKes5Yh0QtDqRGDrKn0KdA0FD5xP?usp=sharing).
 
 1. Application 1: Aspect-based sentiment analyser
 
@@ -47,7 +48,7 @@ sentiment analyser**, an **aspect-based summariser**, and an **offensive speech 
 
     - This application offers instructors a concise overview of students' opinions on a specific aspect of their teaching. Instead of sifting through numerous individual responses, instructors can refer to a single automated summary, generated by Qwen 3.5 Plus, to efficiently gain a comprehensive understanding of students' opinions.
 
-    - This application is run using the openai conda environment specified in the environments folder.
+    - This application is run locally using the openai conda environment specified in the environments folder.
 
 3. Application 3: Offensive speech detector
 
@@ -58,4 +59,4 @@ sentiment analyser**, an **aspect-based summariser**, and an **offensive speech 
 ### Citations
 1. Fine-tuning LLaMA models references the linked tutorial (https://www.youtube.com/watch?v=pK8u4QfdLx0&t=742s)
 2. Fine-tuning BERT models references the linked tutorial (https://dzone.com/articles/aspect-based-sentiment-analysis-with-gpt-and-bert)
-3. AI assistance was used
+3. AI-assisted tools were used to support development and debugging.
