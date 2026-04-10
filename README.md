@@ -35,6 +35,8 @@ detection** and **irony detection**. This experiment explores the performance of
 This section details three potential applications of the experiment results: **an aspect-based
 sentiment analyser**, an **aspect-based summariser**, and an **offensive speech detector**.
 
+**Due to github upload size limits, the relevant models can be downloaded from Google Drive at this link (https://drive.google.com/drive/folders/1wTklmKes5Yh0QtDqRGDrKn0KdA0FD5xP?usp=sharing).**
+
 1. Application 1: Aspect-based sentiment analyser
 
     - In this feature, an ORCA 2 fine-tuned LLaMA 3 8B model is leveraged to conduct aspect-based sentiment analysis on student feedback comments to identify their attitudes towards various aspects of an instructor’s teaching. Based on this analysis, the most frequently mentioned, most negatively perceived and most positively perceived aspects mentioned by students are captured and presented to instructors, allowing them to easily understand and address the parts of their teaching that matter most to their students. 
